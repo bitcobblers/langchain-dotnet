@@ -1,4 +1,4 @@
-namespace langchain.net.tests
+namespace langchain.tests
 {
     public class UnitTest1
     {

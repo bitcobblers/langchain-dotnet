@@ -1,4 +1,4 @@
-﻿namespace langchain.net
+﻿namespace langchain
 {
     public class Class1
     {

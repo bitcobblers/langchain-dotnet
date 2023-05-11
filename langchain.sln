@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33103.201
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "langchain.net", "langchain.net\langchain.net.csproj", "{03EC47C4-3C59-4710-A975-8C72E7F8E103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "langchain", "langchain\langchain.csproj", "{03EC47C4-3C59-4710-A975-8C72E7F8E103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "langchain.net.tests", "langchain.net.tests\langchain.net.tests.csproj", "{97FB793E-A771-4465-90D6-BC94324E28C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "langchain.tests", "langchain.tests\langchain.tests.csproj", "{97FB793E-A771-4465-90D6-BC94324E28C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
